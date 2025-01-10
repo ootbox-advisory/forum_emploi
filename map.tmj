@@ -71,7 +71,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1_OOt6S_qsDnJOYkKJuufr_s_KoA9RQqJ\/preview"
+                 "value":"https:\/\/drive.google.com\/file\/d\/1ygPjwcRwhAYHWT9IqDtJfzWdCF3Cyeed\/preview"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -2738,12 +2738,12 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"D\u00e9pot CV"
+                     "text":"Passage obligatoire"
                     },
                  "type":"",
                  "visible":true,
-                 "width":118,
-                 "x":1975.5,
+                 "width":159.333333333333,
+                 "x":1927.5,
                  "y":872.5
                 }, 
                 {
@@ -2976,7 +2976,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":67,
+ "nextobjectid":69,
  "orientation":"orthogonal",
  "properties":[
         {
